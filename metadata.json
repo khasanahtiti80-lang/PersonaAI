@@ -1,0 +1,6 @@
+{
+  "name": "PersonaAI",
+  "description": "AI-powered personal branding platform for profiles, bios, social media, and interview simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
